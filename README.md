@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antonyandrus
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on frontend/backend development
+- 👀 Angular Developer
+- 🌱 Deep diving into angular
+- 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me +918807277030
 
 <!---
